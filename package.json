@@ -1,0 +1,19 @@
+{
+	"name": "zz.db",
+	"version": "20170123.0.0",
+	"description": "Database managing tools for imazzine-developer-kit.",
+	"author": {
+		"name": "Artem Lytvynov",
+		"email": "buntarb@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://www.imazzine.com",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/buntarb/zz.db.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
